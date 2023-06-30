@@ -1,0 +1,29 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #55A44E;
+
+}
+
+.img-container3 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  max-resolution: 22px;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+}
+
+.icones {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.icones div {
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
