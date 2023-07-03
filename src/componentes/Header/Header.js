@@ -1,7 +1,7 @@
 import './Header.css'
 import React from 'react'
 
-export const Header=() => {
+export const Header =() => {
     return (
         <header className='Header'>
 

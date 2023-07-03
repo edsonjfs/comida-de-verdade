@@ -3,14 +3,14 @@
   flex-direction: column;
   justify-content: center;
   background-color: #55A44E;
-
+  height: 170px;
+  position: relative;
 }
 
 .img-container3 {
   display: flex;
   justify-content: center;
   margin-bottom: 40px;
-  max-resolution: 22px;
 }
 
 .img {
@@ -21,9 +21,14 @@
 .icones {
   display: flex;
   justify-content: flex-end;
+  position: absolute;
+  right: 10px;
+  padding: 50px;
+  margin-right: 10px;
+}
+.icones img {
+  margin-right: 20px;
 }
 
-.icones div {
-  margin-right: 20px;
-  margin-bottom: 20px;
-}
+
+

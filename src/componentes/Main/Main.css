@@ -1,4 +1,15 @@
 .img-container2 {
     width: 100%;
-   
+    height: 450px;
   }
+  .titulo1 {
+    text-align: center;
+    color: #BCA44A;
+    font-size: 55px;
+  }
+.introducao {
+  text-align: center;
+  font-size: 35px;
+  color: #1B8057;
+  padding: 55px;
+}

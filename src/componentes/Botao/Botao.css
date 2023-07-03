@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarala:wght@400;700&display=swap');
+
+.Botao {
+display: flex;
+justify-content: center;
+}
+
+.Estilo-Botao {
+font-family: 'Sarala', sans-serif;
+margin: 50px; 
+width: 314px; 
+height: 84px; 
+background-color: transparent;
+font-size: 30px;
+border-color: #D7C37A;
+border-width: 8px;
+border: 8px solid #D7C37A;
+box-shadow: none;
+color: #BCA44A;
+outline: none;
+font-weight: bold;
+}
+.Estilo-Botao:hover {
+    transform: scale(1.1);
+}

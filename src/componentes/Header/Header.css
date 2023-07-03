@@ -3,7 +3,7 @@
 .Header {
     background-color: #55A44E;
     width: 100%;
-    height: 200px;
+    height: 250px;
 }
 .img {
     width: 170px;
@@ -20,12 +20,13 @@
   .img-container .img {
     margin-bottom: -29px; 
 }
-
+.img:hover {
+  transform: scale(1.1);
+}
   .menu {
     display: flex;
     justify-content: center;
     font-family: 'Sarala', sans-serif;
-  
   }
   
   .menu ul {
