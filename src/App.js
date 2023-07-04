@@ -4,6 +4,7 @@ import { Footer } from './componentes/Footer/Footer';
 import { Main } from './componentes/Main/Main';
 import {Botao} from './componentes/Botao/Botao';
 import { Cards } from './componentes/Cards/Cards';
+import { Infos } from './componentes/Infos/Infos'
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
       <Main/>
       <Botao/>
       <Cards/>
+      <Infos/>
+      <Botao/>
       <Footer/>
    </div>
   );
