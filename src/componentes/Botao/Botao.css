@@ -19,6 +19,7 @@ box-shadow: none;
 color: #BCA44A;
 outline: none;
 font-weight: bold;
+margin-left: 10px;
 }
 .Estilo-Botao:hover {
     transform: scale(1.1);
