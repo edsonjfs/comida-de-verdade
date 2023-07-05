@@ -12,7 +12,6 @@ function App() {
 
       <Header/>
       <Main/>
-      <Botao/>
       <Cards/>
       <Infos/>
       <Botao/>
