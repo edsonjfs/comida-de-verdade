@@ -19,9 +19,6 @@
   color: #1B8057;
   padding: 55px;
 }
-.containerPng{
-
-}
 .png {
   position: absolute;
   top: 170%;
@@ -36,4 +33,63 @@
 
 .botaoMain {
   position: relative;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #55A44E;
+  padding: 20px;
+}
+
+.card {
+  flex-basis: 30%; /* Tamanho do card */
+  background-color: #EDE9A3; /* Cor de fundo do card */
+  padding: 10px; /* Espaçamento interno do card */
+}
+
+.card-content {
+  margin-bottom: 10px; /* Espaçamento abaixo do parágrafo */
+  color: #1B8057;
+  text-align: center;
+  font-size: 25px;
+}
+.card-content img {
+  height: 280px;
+  width: 380px;
+  
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.Iniciativa {
+  flex-basis: 50%; /* Tamanho do card */
+  padding: 10px; /* Espaçamento interno do card */
+  color: #1B8057;
+  font-size: 25px;
+  text-align: center;
+}
+.Iniciativa h2 {
+  color: #BCA44A;
+  text-align: center;
+}
+.Cesta {
+  flex-basis: 50%; /* Tamanho do card */
+  padding: 10px; /* Espaçamento interno do card */
+  color: #1B8057;
+  font-size: 25px;
+  text-align: center;
+}
+.Cesta h2 {
+  color: #BCA44A;
+  text-align: center;
+}
+.papayaPng {
+  position: absolute;
+  top: 350%;
+  right: 7%;
+  width: 320px;
+  height: 320px;
 }
