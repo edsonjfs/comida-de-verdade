@@ -25,3 +25,10 @@
     color: #BCA44A;
     text-align: center;
 }
+.papayaPng {
+    position: absolute;
+    top: 350%;
+    right: 7%;
+    width: 320px;
+    height: 320px;
+}

@@ -12,6 +12,7 @@ export const Infos =() => {
                 <h2>O QUE VAI NA CESTA?</h2>
                 <p>Nossa meta é entregar 10.000 kits com: moletons personalizados em parceria com a FutureBrand + kit higiene e em dias muito frios, sacos de dormir.</p>
             </div>
+            <div className='containerpapayaPng'> <img src='/img/Papaya-PNG-HD-Image.png' className='papayaPng'/></div>
         </div>
     )
 
