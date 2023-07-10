@@ -9,7 +9,7 @@ export const Header =() => {
             
                    <div className='img-container'> 
                    
-                   <a href=""><img src='/img/comidavddbranco.png' alt='Logo da Header' className='img' /></a>
+                 <Link to="/index">  <a href=""><img src='/img/comidavddbranco.png' alt='Logo da Header' className='img' /></a></Link>
                    
                    </div>
             <div className='menu'>
@@ -22,7 +22,7 @@ export const Header =() => {
                         <Link to="/Onde" ><a href=''>ONDE ENCONTRAR</a> </Link>
                     </li>
                     <li>
-                        <a href=''>COLABORE</a>
+                  <Link to="/Colabore"> <a href=''>COLABORE</a></Link>
                     </li>
             
                 </ul>
