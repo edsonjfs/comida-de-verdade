@@ -59,9 +59,9 @@ export const Main = () => {
             <div className='containerpapayaPng'> <img src='/img/Papaya-PNG-HD-Image.png' className='papayaPng'/></div>
         </div>
 
-                <Footer/>
+              
             </div>
-
+  <Footer/>
         </main>
 
     )
