@@ -22,7 +22,7 @@ export const Header =() => {
                         <Link to="/Onde" ><a href=''>ONDE ENCONTRAR</a> </Link>
                     </li>
                     <li>
-                        <a href=''>COLABORE</a>
+                  <Link to="/Colabore"> <a href=''>COLABORE</a></Link>
                     </li>
             
                 </ul>
