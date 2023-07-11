@@ -9,7 +9,7 @@ export const Header =() => {
             
                    <div className='img-container'> 
                    
-                   <a href=""><img src='/img/comidavddbranco.png' alt='Logo da Header' className='img' /></a>
+                   <Link to="/index"> <a href=""><img src='/img/comidavddbranco.png' alt='Logo da Header' className='img' /></a></Link>
                    
                    </div>
             <div className='menu'>
