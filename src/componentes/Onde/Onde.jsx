@@ -1,10 +1,11 @@
 import { Header } from "../Header/Header"
 import { Footer } from "../Footer/Footer"
+import React from 'react' 
 
 
 export const Onde = () => {
     return(
-     <div>   <Header/>
+    
     <div className='container'>
     <div className='Iniciativa'>
         <h2>SOBRE A INICIATIVA:</h2>
@@ -16,8 +17,7 @@ export const Onde = () => {
     </div>
     <div className='containerpapayaPng'> <img src='/img/Papaya-PNG-HD-Image.png' className='papayaPng'/></div>
 </div>
-<Footer/>
-</div>
+
     )
 }
 

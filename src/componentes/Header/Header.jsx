@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import './Header.css'
 import React from 'react'
 
@@ -18,7 +19,7 @@ export const Header =() => {
                         <a href="">AGROECOLOGIA</a>
                     </li>
                     <li>
-                        <a href=''>ONDE ENCONTRAR</a>
+                        <Link to="/Onde" ><a href=''>ONDE ENCONTRAR</a> </Link>
                     </li>
                     <li>
                         <a href=''>COLABORE</a>
