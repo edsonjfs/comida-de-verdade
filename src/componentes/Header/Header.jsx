@@ -19,10 +19,10 @@ export const Header =() => {
                         <a href="">AGROECOLOGIA</a>
                     </li>
                     <li>
-                        <Link to="/Onde" ><a href=''>ONDE ENCONTRAR</a> </Link>
+                        <Link to="/onde" ><a href=''>ONDE ENCONTRAR</a> </Link>
                     </li>
                     <li>
-                  <Link to="/Colabore"> <a href=''>COLABORE</a></Link>
+                  <Link to="/colabore"> <a href=''>COLABORE</a></Link>
                     </li>
             
                 </ul>

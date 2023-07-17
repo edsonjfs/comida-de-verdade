@@ -1,3 +1,3 @@
-import { Colabore } from "./Colabore"
+import { Colabore } from "./Main"
 
 export default Colabore
