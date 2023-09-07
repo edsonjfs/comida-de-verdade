@@ -16,7 +16,7 @@ export const Header =() => {
             <nav>
                 <ul>
                     <li>
-                        <a href="">AGROECOLOGIA</a>
+                        <a href="/index">AGROECOLOGIA</a>
                     </li>
                     <li>
                         <Link to="/onde" ><a href=''>ONDE ENCONTRAR</a> </Link>
