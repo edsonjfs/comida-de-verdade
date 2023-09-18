@@ -14,7 +14,19 @@
   height: 450px;
   object-fit: cover;
 }
-.titulo1 {
+.title-quem-somos {
+  text-align: center;
+  color: #BCA44A;
+  font-size: 55px;
+}
+
+.title-sobre-iniciativa {
+  text-align: center;
+  color: #BCA44A;
+  font-size: 55px;
+}
+
+.title-que-vai-cesta {
   text-align: center;
   color: #BCA44A;
   font-size: 55px;

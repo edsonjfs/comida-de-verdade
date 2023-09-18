@@ -5,7 +5,7 @@ display: flex;
 justify-content: center;
 }
 
-.Estilo-Botao {
+.button-colabore {
 font-family: 'Sarala', sans-serif;
 margin: 50px; 
 width: 314px; 
@@ -21,6 +21,6 @@ outline: none;
 font-weight: bold;
 margin-left: 10px;
 }
-.Estilo-Botao:hover {
+.button-colabore:hover {
     transform: scale(1.1);
 }

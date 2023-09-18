@@ -1,7 +1,13 @@
 
   .card {
-    margin-bottom:90px;
+    margin: auto;
+    margin-top:90px;
+    margin-bottom:50px;
     height: 200px;
-    width: 300px;
+    width: 350px;
+    padding: 20px;
     
+  }
+  .chave-pix{
+    text-align: center;
   }

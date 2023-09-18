@@ -16,10 +16,10 @@ export const Header =() => {
             <nav>
                 <ul>
                     <li>
-                        <a href="/index">AGROECOLOGIA</a>
+                        <a href="/index">QUEM SOMOS?</a>
                     </li>
                     <li>
-                        <Link to="/onde" ><a href=''>ONDE ENCONTRAR</a> </Link>
+                        <Link to="/onde" ><a href=''>PRESTAÇÃO DE CONTAS</a> </Link>
                     </li>
                     <li>
                   <Link to="/colabore"> <a href=''>COLABORE</a></Link>
@@ -31,5 +31,4 @@ export const Header =() => {
             </header>
         </div>
     )
-
 }

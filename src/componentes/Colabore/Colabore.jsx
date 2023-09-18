@@ -9,19 +9,9 @@ export const Colabore = () => {
       <Header />
       <div className="card">
         <div className="card-content">
-          <p>Dados da conta bancária</p>
-        </div>
-      </div>
-      <div className="card">
-        <div className="card-content">
-          <p>Prefere doar por pix?
-            Dados
-          </p>
-        </div>
-      </div>
-      <div className="card">
-        <div className="card-content">
-          <p>Deseja receber um lembrete mensal para contribuir com o projeto?</p>
+          <p className="chave-pix">Chave Pix:</p>
+          <p>comidadeverdadeourinhos@gmail.com</p>
+          <p>Nome : July Yukie Abe de Lima</p>
         </div>
       </div>
       <Footer />
