@@ -39,8 +39,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    
   }
   
   .menu li {
@@ -56,5 +54,10 @@
   }
   .menu li :hover{
     color: #BCA44A;
+  }
+  .menu-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
   }
   
