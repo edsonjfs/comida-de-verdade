@@ -10,7 +10,7 @@ const AppRoute = () => {
     return (
         <Router>
             <Routes>
-                <Route path = "/index" Component={Main}/>
+                <Route path ="/index" Component={Main}/>
                 <Route path="/onde" Component={Onde}/>
                 <Route path="/colabore" Component={Colabore}/>
             </Routes>
