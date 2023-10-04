@@ -6,7 +6,7 @@ import Main from './componentes/Main/Main';
 function App() {
   return (
     <div>
-  <Main></Main>
+      <AppRoute/>
    </div>
   );
 }
