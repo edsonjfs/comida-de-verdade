@@ -10,21 +10,6 @@ export const Footer=() => {
                     <img src='/img/comidavddbranco.png' className='img'/>
                 </a>
             </div>
-           
-
-
-            <div className='icones'>
-            <div>
-                <img src='/img/Facebook.png'/>
-            </div>
-            <div>
-                <img src='/img/Instagram.png'/>
-            </div>
-            <div>
-                <img src='/img/Whatsapp.png'/>
-            </div>
-            </div>
-        
     </footer>
     )
 

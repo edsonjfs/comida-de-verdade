@@ -1,13 +1,36 @@
+/* Estilize o cartão */
+.card {
+  margin: auto;
+  margin-top: 90px;
+  margin-bottom: 50px;
+  height: 200px;
+  width: 350px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
-  .card {
-    margin: auto;
-    margin-top:90px;
-    margin-bottom:50px;
-    height: 200px;
-    width: 350px;
-    padding: 20px;
-    
-  }
-  .chave-pix{
-    text-align: center;
-  }
+/* Estilize o contêiner do botão "Copiar Chave Pix" */
+.button-container {
+  text-align: center;
+}
+
+/* Estilize o botão "Copiar Chave Pix" */
+.copiarChavePix {
+  background-color: #55A44E;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+/* Estilize o botão "Copiar Chave Pix" quando o mouse passar por cima */
+.copiarChavePix:hover {
+  background-color: #0056b3;
+}
