@@ -13,7 +13,7 @@ export const Main = () => {
           <div className='col'>
             <h1 className='title-quem-somos'>QUEM SOMOS:</h1>
             <p>
-            Comidada de Verdade é um grupo de voluntários que conecta pequenos produtores rurais às famílias em situação de vulnerabilidade e insegurança alimentar.
+            Comida de Verdade é um grupo de voluntários que conecta pequenos produtores rurais às famílias em situação de vulnerabilidade e insegurança alimentar.
             Através da sua doação nós compramos alimentos saudáveis e de qualidade dos produtores locais e fazemos as entregas para as famílias de Ourinhos.
             Estamos sempre em contato com as equipes do CRASS e a Prefeitura que nos indicam as famílias que precisam da nossa ajuda.
             Gostou da iniciativa? Faça parte dessa corrente do bem e colabore também!! qualquer valor e ajuda é bem vinda! 
